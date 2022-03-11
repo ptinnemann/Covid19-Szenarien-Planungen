@@ -14,84 +14,84 @@
       <content src="titlepage.xhtml#title" />
     </navPoint>
     <navPoint id="t_1_0-1">
-      <navLabel><text>Covid-19 Medium-Term Scenarios – February 2022</text></navLabel>
+      <navLabel><text>Einführung: Covid-19 Szenarien</text></navLabel>
       <content src="document-1.xhtml#_1_0" />
+      <navPoint id="tH1657566-1">
+        <navLabel><text>Hintergrund</text></navLabel>
+        <content src="document-1.xhtml#H1657566" />
+      </navPoint>
+      <navPoint id="tH7213471-1">
+        <navLabel><text>Virale Entwicklung und Immunität</text></navLabel>
+        <content src="document-1.xhtml#H7213471" />
+      </navPoint>
+      <navPoint id="tH2543508-1">
+        <navLabel><text>Interaktion mit anderen Viren</text></navLabel>
+        <content src="document-1.xhtml#H2543508" />
+      </navPoint>
+      <navPoint id="tH976262-1">
+        <navLabel><text>Gegenmaßnahmen</text></navLabel>
+        <content src="document-1.xhtml#H976262" />
+      </navPoint>
     </navPoint>
     <navPoint id="t_2_0-2">
-      <navLabel><text>Scenario 1: Reasonable Best-Case</text></navLabel>
+      <navLabel><text>Szenario 1: Relativ milde Entwicklungen</text></navLabel>
       <content src="document-2.xhtml#_2_0" />
+      <navPoint id="tH348924-2">
+        <navLabel><text>Bewertung</text></navLabel>
+        <content src="document-2.xhtml#H348924" />
+      </navPoint>
+      <navPoint id="tH7334057-2">
+        <navLabel><text>Beschreibung</text></navLabel>
+        <content src="document-2.xhtml#H7334057" />
+      </navPoint>
     </navPoint>
     <navPoint id="t_3_0-3">
-      <navLabel><text>Scenario 2: Central Optimistic</text></navLabel>
+      <navLabel><text>Szenario 2: Zunehme Schwere Entwicklung</text></navLabel>
       <content src="document-3.xhtml#_3_0" />
+      <navPoint id="tH9902957-3">
+        <navLabel><text>Bewertung</text></navLabel>
+        <content src="document-3.xhtml#H9902957" />
+      </navPoint>
+      <navPoint id="tH3906327-3">
+        <navLabel><text>Beschreibung</text></navLabel>
+        <content src="document-3.xhtml#H3906327" />
+      </navPoint>
     </navPoint>
     <navPoint id="t_4_0-4">
-      <navLabel><text>Scenario 3: Central Pessimistic</text></navLabel>
+      <navLabel><text>Szenario 3: Gefährliche Entwicklung</text></navLabel>
       <content src="document-4.xhtml#_4_0" />
     </navPoint>
     <navPoint id="t_5_0-5">
-      <navLabel><text>Scenario 4: Reasonable Worst-Case</text></navLabel>
+      <navLabel><text>Szenario 4. Schlechteste Angenommene Entwicklung</text></navLabel>
       <content src="document-5.xhtml#_5_0" />
+      <navPoint id="tH9174878-5">
+        <navLabel><text>Bewertung</text></navLabel>
+        <content src="document-5.xhtml#H9174878" />
+      </navPoint>
+      <navPoint id="tH1664473-5">
+        <navLabel><text>Beschreibung</text></navLabel>
+        <content src="document-5.xhtml#H1664473" />
+      </navPoint>
     </navPoint>
     <navPoint id="t_6_0-6">
-      <navLabel><text>Einführung: Covid-19 Szenarien</text></navLabel>
+      <navLabel><text>Covid-19 Medium-Term Scenarios – February 2022</text></navLabel>
       <content src="document-6.xhtml#_6_0" />
-      <navPoint id="tH1657566-6">
-        <navLabel><text>Hintergrund</text></navLabel>
-        <content src="document-6.xhtml#H1657566" />
-      </navPoint>
-      <navPoint id="tH7213471-6">
-        <navLabel><text>Virale Entwicklung und Immunität</text></navLabel>
-        <content src="document-6.xhtml#H7213471" />
-      </navPoint>
-      <navPoint id="tH2543508-6">
-        <navLabel><text>Interaktion mit anderen Viren</text></navLabel>
-        <content src="document-6.xhtml#H2543508" />
-      </navPoint>
-      <navPoint id="tH976262-6">
-        <navLabel><text>Gegenmaßnahmen</text></navLabel>
-        <content src="document-6.xhtml#H976262" />
-      </navPoint>
     </navPoint>
     <navPoint id="t_7_0-7">
-      <navLabel><text>Szenario 1: Relativ milde Entwicklungen</text></navLabel>
+      <navLabel><text>Scenario 1: Reasonable Best-Case</text></navLabel>
       <content src="document-7.xhtml#_7_0" />
-      <navPoint id="tH348924-7">
-        <navLabel><text>Bewertung</text></navLabel>
-        <content src="document-7.xhtml#H348924" />
-      </navPoint>
-      <navPoint id="tH7334057-7">
-        <navLabel><text>Beschreibung</text></navLabel>
-        <content src="document-7.xhtml#H7334057" />
-      </navPoint>
     </navPoint>
     <navPoint id="t_8_0-8">
-      <navLabel><text>Szenario 2: Zunehme Schwere Entwicklung</text></navLabel>
+      <navLabel><text>Scenario 2: Central Optimistic</text></navLabel>
       <content src="document-8.xhtml#_8_0" />
-      <navPoint id="tH9902957-8">
-        <navLabel><text>Bewertung</text></navLabel>
-        <content src="document-8.xhtml#H9902957" />
-      </navPoint>
-      <navPoint id="tH3906327-8">
-        <navLabel><text>Beschreibung</text></navLabel>
-        <content src="document-8.xhtml#H3906327" />
-      </navPoint>
     </navPoint>
     <navPoint id="t_9_0-9">
-      <navLabel><text>Szenario 3: Gefährliche Entwicklung</text></navLabel>
+      <navLabel><text>Scenario 3: Central Pessimistic</text></navLabel>
       <content src="document-9.xhtml#_9_0" />
     </navPoint>
     <navPoint id="t_10_0-10">
-      <navLabel><text>Szenario 4. Schlechteste Angenommene Entwicklung</text></navLabel>
+      <navLabel><text>Scenario 4: Reasonable Worst-Case</text></navLabel>
       <content src="document-10.xhtml#_10_0" />
-      <navPoint id="tH9174878-10">
-        <navLabel><text>Bewertung</text></navLabel>
-        <content src="document-10.xhtml#H9174878" />
-      </navPoint>
-      <navPoint id="tH1664473-10">
-        <navLabel><text>Beschreibung</text></navLabel>
-        <content src="document-10.xhtml#H1664473" />
-      </navPoint>
     </navPoint>
     <navPoint id="t2">
       <navLabel><text>Copyright</text></navLabel>
