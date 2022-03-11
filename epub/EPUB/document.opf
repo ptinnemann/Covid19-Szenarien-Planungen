@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="fidus" xml:lang="de-DE" prefix="cc: http://creativecommons.org/ns#">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="fidus">105</dc:identifier>
+    <dc:title>Covid19 Szenarien - ÖGD Planung 2022</dc:title>
+    <dc:creator>
+      Peter Tinnemann
+    </dc:creator>
+    <dc:language>de-DE</dc:language>
+    <meta property="dcterms:modified">2022-03-11T19:09:27Z</meta>
+    <dc:date>2022-03-11</dc:date>
+  </metadata>
+  <manifest>
+    <item id="titlepage" href="titlepage.xhtml" media-type="application/xhtml+xml" />
+    <item id="t1" href="document-1.xhtml" media-type="application/xhtml+xml" />
+    <item id="t2" href="document-2.xhtml" media-type="application/xhtml+xml" />
+    <item id="t3" href="document-3.xhtml" media-type="application/xhtml+xml" />
+    <item id="t4" href="document-4.xhtml" media-type="application/xhtml+xml" />
+    <item id="nav" href="document-nav.xhtml" properties="nav" media-type="application/xhtml+xml" />
+    <item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml" />
+    <item id="font0" href="css/media/NoticiaText-Bold_2.woff" media-type="font/woff" />
+    <item id="font1" href="css/media/NoticiaText-Regular.woff" media-type="font/woff" />
+    <item id="font2" href="css/media/NoticiaText-Italic.woff" media-type="font/woff" />
+    <item id="font3" href="css/media/NoticiaText-BoldItalic.woff" media-type="font/woff" />
+    <item id="font4" href="css/media/SourceSansPro-Bold.woff" media-type="font/woff" />
+    <item id="css0" href="css/document.css" media-type="text/css" />
+    <item id="css1" href="css/springer.css" media-type="text/css" />
+
+    <!-- ncx included for 2.0 reading system compatibility: -->
+    <item id="ncx" href="document.ncx" media-type="application/x-dtbncx+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="titlepage" linear="yes" />
+    <itemref idref="t1" linear="yes" />
+    <itemref idref="t2" linear="yes" />
+    <itemref idref="t3" linear="yes" />
+    <itemref idref="t4" linear="yes" />
+    <itemref idref="copyright" linear="yes" />
+    <itemref idref="nav" linear="no" />
+  </spine>
+</package>

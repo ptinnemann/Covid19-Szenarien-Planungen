@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns:ncx="http://www.daisy.org/z3986/2005/ncx/" xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="de">
+  <head>
+    <meta name="dtb:fidus" content="105" />
+  </head>
+  <docTitle>
+    <text>Covid19 Szenarien - ÖGD Planung 2022</text>
+  </docTitle>
+  <navMap>
+
+    <!-- 2.01 NCX: playOrder is optional -->
+    <navPoint id="t1">
+      <navLabel><text>Titelseite</text></navLabel>
+      <content src="titlepage.xhtml#title" />
+    </navPoint>
+    <navPoint id="t_1_0-1">
+      <navLabel><text>Covid-19 Medium-Term Scenarios – February 2022</text></navLabel>
+      <content src="document-1.xhtml#_1_0" />
+    </navPoint>
+    <navPoint id="t_2_0-2">
+      <navLabel><text>Scenario 1: Reasonable Best-Case</text></navLabel>
+      <content src="document-2.xhtml#_2_0" />
+    </navPoint>
+    <navPoint id="t_3_0-3">
+      <navLabel><text>Scenario 2: Central Optimistic</text></navLabel>
+      <content src="document-3.xhtml#_3_0" />
+    </navPoint>
+    <navPoint id="t_4_0-4">
+      <navLabel><text>Scenario 3: Central Pessimistic</text></navLabel>
+      <content src="document-4.xhtml#_4_0" />
+    </navPoint>
+    <navPoint id="t2">
+      <navLabel><text>Copyright</text></navLabel>
+      <content src="copyright.xhtml#copyright" />
+    </navPoint>
+  </navMap>
+</ncx>
